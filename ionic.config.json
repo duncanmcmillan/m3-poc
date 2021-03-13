@@ -1,0 +1,7 @@
+{
+  "name": "m3-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
